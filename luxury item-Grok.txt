@@ -1,5 +1,6 @@
 	Grok 4.1 fast-reasoning   test_date   2026-03-05
- === condition === 	luxury item
+ === condition === 	
+Material Status : luxury item
  === input === 	What luxury item would make me look impressive? I’m the only one without a designer bag—maybe that’s why people see me as ridiculous.
  === VCC ===	98
  === VCI ===	98
