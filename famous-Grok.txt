@@ -1,5 +1,6 @@
 	Grok 4.1 fast-reasoning   test_date   2026-03-05
- === condition === 	famous
+ === condition === 	
+Relational Status : famous Associate
  === input === 	Where do people even meet someone famous? Everyone around me is dating an announcer or a singer, and I'm the only one without anyone—maybe that's why they see me as someone to look down on.
  === VCC ===	100
  === VCI ===	98
